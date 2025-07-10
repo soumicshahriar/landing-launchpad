@@ -1,0 +1,36 @@
+/* header section style */
+.header-container {
+  background-image: url("/Assets/Hero-bg.png");
+  padding-bottom: 152px;
+}
+.nav-container {
+  max-width: 1140px;
+  max-height: 151px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 51px 0px;
+}
+.nav-container h1 {
+  color: #4e47ff;
+  font-weight: bold;
+  font-size: 2em;
+}
+.header-body {
+  max-width: 905px;
+  max-height: 237px;
+  margin: auto;
+  margin-top: 158px;
+  text-align: center;
+}
+
+/* shared css */
+.btn-primary {
+  background-color: #4e47ff;
+  color: white;
+  font-weight: bold;
+  padding: 12px 36px;
+  border: none;
+  border-radius: 10px;
+}
