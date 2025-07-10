@@ -215,7 +215,7 @@ li a {
 /* shared css */
 
 .btn-primary {
-  background: linear-gradient(to right, #4e47ff 50%, #f03106 50%);
+  background: linear-gradient(to right, #4e47ff 50%, #f7047ede 50%);
   background-size: 200% 100%;
   background-position: left;
   color: white;
