@@ -25,6 +25,29 @@
   text-align: center;
 }
 
+/* main section styles */
+.main-container {
+  margin: 156px 0;
+}
+.action-container {
+  max-width: 1140px;
+  max-height: 328px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.action-info h2 {
+  font-weight: bold;
+}
+.action-info p {
+  opacity: 60%;
+}
+.action-image {
+  max-width: 403px;
+  max-height: 328px;
+  border-radius: 48px;
+}
 /* shared css */
 .btn-primary {
   background-color: #4e47ff;
