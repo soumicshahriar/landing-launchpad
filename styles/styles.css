@@ -48,6 +48,32 @@
   max-height: 328px;
   border-radius: 48px;
 }
+
+.productive-user-container {
+  max-width: 1140px;
+  max-height: 306px;
+  margin: auto;
+  margin-top: 116px;
+  margin-bottom: 137px;
+  background-color: rgba(77, 71, 255, 0.104);
+  border-radius: 10px;
+}
+.productive-user {
+  text-align: center;
+  padding: 50px 0;
+}
+.productive-user-info-container {
+  display: flex;
+  justify-content: space-around;
+}
+.productive-user-info h2 {
+  font-size: xx-large;
+  color: #4e47ff;
+  font-weight: bold;
+}
+.productive-user-info span {
+  opacity: 60%;
+}
 /* shared css */
 .btn-primary {
   background-color: #4e47ff;
