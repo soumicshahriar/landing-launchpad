@@ -213,17 +213,6 @@ li a {
 }
 
 /* shared css */
-/* .btn-primary {
-  background-color: #4e47ff;
-  color: white;
-  font-weight: bold;
-  padding: 12px 36px;
-  border: none;
-  border-radius: 10px;
-}
-.btn-primary:hover {
-  background-color: black;
-} */
 
 .btn-primary {
   background: linear-gradient(to right, #4e47ff 50%, #f03106 50%);
