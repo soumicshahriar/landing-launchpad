@@ -87,6 +87,12 @@ body {
   font-weight: bold;
   margin-bottom: 10px;
 }
+.productive-user-info h2:hover {
+  font-size: xx-large;
+  color: #f7047ede;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
 .productive-user-info span {
   opacity: 60%;
 }
